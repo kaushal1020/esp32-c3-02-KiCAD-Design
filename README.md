@@ -42,23 +42,6 @@ The design was created entirely in KiCad, following standard PCB design practice
 - KiCad 9
 - ESP32-C3-02
 
----
-
-## 📸 Project Images
-
-### Schematic
-
-(Add screenshot here)
-
-### PCB Layout
-
-(Add screenshot here)
-
-### 3D PCB View
-
-(Add screenshot here)
-
----
 
 ## 🚀 Applications
 

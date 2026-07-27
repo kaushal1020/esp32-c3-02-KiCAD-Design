@@ -63,7 +63,6 @@ The design was created entirely in KiCad, following standard PCB design practice
 ## 🚀 Applications
 
 - IoT Devices
-- Smart Home Automation
 - Embedded Systems
 - Wireless Sensor Networks
 - Industrial Monitoring
